@@ -1,0 +1,3 @@
+= RailsAdminTmTheme
+
+This project has the scope of defining a personalized theme for rails_admin project for the application TM.
