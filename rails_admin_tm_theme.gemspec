@@ -7,11 +7,11 @@ require "rails_admin_tm_theme/version"
 Gem::Specification.new do |s|
   s.name        = "rails_admin_tm_theme"
   s.version     = RailsAdminTmTheme::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminTmTheme."
-  s.description = "TODO: Description of RailsAdminTmTheme."
+  s.authors     = ["Massimiliano Marzo"]
+  s.email       = ["massimiliano.marzo@gmail.com"]
+  s.homepage    = "https://github.com/Dinuz/rails_admin_tm_theme"
+  s.summary     = "TM theme for rails_admin."
+  s.description = "TM theme for rails_admin."
 
   s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
